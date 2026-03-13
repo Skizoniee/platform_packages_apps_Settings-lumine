@@ -62,6 +62,9 @@
     <!-- Manufacturer backup settings to launch -->
     <string name="config_backup_settings_intent" translatable="false"></string>
 
+    <!-- Uses the legacy UDFPS enrollment UI with side text instead of a footer button. -->
+    <bool name="config_useLegacyUdfpsUi" translatable="false">false</bool>
+
     <!-- Manufacturer backup settings label -->
     <string name="config_backup_settings_label" translatable="true"></string>
 
